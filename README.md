@@ -9,8 +9,12 @@
 
 <br>
 
-## 🎥 Demo
-> `![Demo](https://link-to-your-gif.gif)`
+## 🎥 video
+### 로봇 작동(객체 분류)
+> ![mycobot_vision_classifier1 (1)](https://github.com/user-attachments/assets/bdbd616d-34f1-4a40-a0e6-d1a1ea2b4587)
+![1](https://github.com/user-attachments/assets/c2678571-7d82-424f-8747-bb1792575b01)
+### 개발자 화면(AI)
+>![KakaoTalk_20260409_142832422](https://github.com/user-attachments/assets/43401b41-46f0-48e8-8e06-bbced90dcebf)
 
 <br>
 
